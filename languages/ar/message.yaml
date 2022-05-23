@@ -1,0 +1,16 @@
+##### MessageCraete Event #####
+
+# On @mention bot get ping back!
+my_prefix: "`🤖` | *My prefix is:* `%{prefix}`"
+
+# On put id to settings/config.js in DEV_ID
+dev_only: البوت قيد الصيانة. (يرجى العودة مرة أخرى في وقت لاحق) شكرا على وقتك و اسفين على الازعاج
+
+# No permission to use command (this for bot!)
+no_perms: ليس لدي صلاحيات لتنفيذ الأمر!
+
+# Bot getting error something!
+error: هناك خطأ ما.
+
+# You are not the client owner of this bot!
+owner_only: أنت لست مالك البوت !. المالك هو ShehabTito#3055

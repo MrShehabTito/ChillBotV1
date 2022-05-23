@@ -1,0 +1,17 @@
+##### Generate command #####
+provide_plan: "يرجى كتابه الخطه: %{plans}"
+plan_invalid: "الخطط المتاحة غير صالحة: %{plans}"
+gen_author: "انشاء كود جديد"
+gen_desc: "• *لقد تم الانشاء* [`+%{codes_length}`]\n```%{codes}```\n • *الخطه*: `%{plan}`\n • *تنتهي في*: `%{expires}`"
+gen_footer: "اكتب: %{prefix}redeem <اكتب الكود لكي تستلم الهديه>"
+
+##### Profile command #####
+profile_author: "ملف العضوية"
+profile_desc: "*العضو:* `%{user}`\n*الخطه*: `%{plan}`\n*تنتهي في*: `%{expires}`"
+
+##### Redeem command #####
+redeem_arg: "الرجاء تحديد الرمز!"
+redeem_already: "أنت بالفعل مستخدم مميز"
+redeem_title: "مبروك"
+redeem_desc: "**لقد تم الحصول على العضويه بنجاح:**\n\n*تنتهي في*: [`%{expires}`]"
+redeem_invalid: "**الكود غير صالح يرجى المحاولة مرة أخرى باستخدام كود صحيح** | `إذا كنت تعتقد أن هذا خطأ اتصل: ShehabTito#3055`"
