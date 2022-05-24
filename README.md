@@ -222,6 +222,7 @@ After installation or finishes all you can use `node .` to start the bot. or `Ru
 
 <details><summary>🖼 Picture [CLICK ME]</summary>
 <p>
+https://i.imgur.com/fOJQvYp.png
 </p>
 </details>
 
