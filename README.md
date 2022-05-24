@@ -229,7 +229,7 @@ After installation or finishes all you can use `node .` to start the bot. or `Ru
 <p>
 
 ## 👏 THANK
-- [EarTensifier](https://github.com/MrShehabTito/ChillBotV1)
+- [ShehabTito](https://github.com/MrShehabTito/ChillBotV1)
 
 </p>
 </details>
