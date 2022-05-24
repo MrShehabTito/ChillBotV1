@@ -229,8 +229,7 @@ After installation or finishes all you can use `node .` to start the bot. or `Ru
 <p>
 
 ## 👏 THANK
-- [lavamusic](https://github.com/brblacky/lavamusic)
-- [EarTensifier](https://github.com/Tetracyl/EarTensifier)
+- [EarTensifier](https://github.com/MrShehabTito/ChillBotV1)
 
 </p>
 </details>
