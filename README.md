@@ -96,7 +96,7 @@ const { resolve } = require("path");
 
 module.exports = {
     TOKEN: process.env.TOKEN || "YOUR_TOKEN",  // your bot token
-    PREFIX: process.env.PREFIX || "#", //<= default is #  // bot prefix
+    PREFIX: process.env.PREFIX || "#", //<= default is -  // bot prefix
     EMBED_COLOR: process.env.EMBED_COLOR || "#000001", //<= default is "#000001"
 
     OWNER_ID: process.env.OWNER_ID || "YOUR_OWNER_ID", //your owner discord id example: "298816961293451266"
