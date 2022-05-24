@@ -26,7 +26,7 @@
 
 ## 🚨 Have a Problem
 
-✈ Join Discord:  [Chill Music ♪♪](https://discord.gg/aejaMrD9CT)
+✈ Join Discord soon:  [Chill Music ♪♪](https://github.com/MrShehabTito/ChillBotV1)
    mention me in chat #general ask problem okay! 👌
 
 <details><summary>📎 Requirements [CLICK ME]</summary>
@@ -49,8 +49,8 @@ Java 11-13 **[Download JDK13](http://www.mediafire.com/file/m6gk7aoq96db8g0/file
 ## 📚 Installation
 
 ```
-git clone https://github.com/MrShehabTito/chillbot
-cd chillbot
+git clone https://github.com/MrShehabTito/chillbotv1
+cd chillbotv1
 npm install
 ```
 
