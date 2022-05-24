@@ -223,6 +223,9 @@ After installation or finishes all you can use `node .` to start the bot. or `Ru
 <details><summary>🖼 Picture [CLICK ME]</summary>
 <p>
 <a href="https://github.com/MrShehabTito/ChillBotV1"><img src="https://i.imgur.com/fOJQvYp.png" alt="Red - Discord Bot"></a>
+<a href="https://github.com/MrShehabTito/ChillBotV1"><img src="https://i.imgur.com/1V8E7k4.png" alt="Red - Discord Bot"></a>
+<a href="https://github.com/MrShehabTito/ChillBotV1"><img src="https://i.imgur.com/aNH9UNN.png" alt="Red - Discord Bot"></a>
+<a href="https://github.com/MrShehabTito/ChillBotV1"><img src="https://i.imgur.com/5f7wMbp.png" alt="Red - Discord Bot"></a>
 </p>
 </details>
 
